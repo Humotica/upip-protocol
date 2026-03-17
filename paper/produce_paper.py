@@ -251,7 +251,7 @@ UPIP is implemented in `tibet-triage`, a Python package available on
 PyPI:
 
 ```bash
-pip install tibet-triage>=0.3.0
+pip install tibet-triage>=0.3.1
 ```
 
 The implementation provides:
@@ -308,7 +308,7 @@ This paper was generated on:
 To verify these results, run:
 
 ```bash
-pip install tibet-triage>=0.3.0
+pip install tibet-triage>=0.3.1
 tibet-triage upip-reproduce paper.upip.json
 ```
 
@@ -372,7 +372,7 @@ not written — it was computed. And you can verify that computation on
 your own machine.
 
 ```bash
-pip install tibet-triage>=0.3.0
+pip install tibet-triage>=0.3.1
 tibet-triage upip-reproduce paper.upip.json
 ```
 

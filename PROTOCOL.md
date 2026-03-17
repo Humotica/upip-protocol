@@ -183,7 +183,7 @@ This circularity is not a flaw — it is the proof.
 ## 9. Reference Implementation
 
 ```
-pip install tibet-triage>=0.3.0
+pip install tibet-triage>=0.3.1
 ```
 
 ```bash
