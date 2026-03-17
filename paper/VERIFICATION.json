@@ -1,0 +1,15 @@
+{
+  "verification_hash": "71e567acbd716906eec490719a383655eba0f3912550bd2b9235ff3bb3300e1b",
+  "paper_hash": "5d717abe537744ae36a3725d5f7967167db3fc16a013ed0dde2cd898a777533e",
+  "environment": {
+    "hostname": "JTel-brain",
+    "python": "3.13.5",
+    "platform": "Linux-6.12.57+deb13-amd64-x86_64-with-glibc2.41",
+    "machine": "x86_64",
+    "processor": "unknown"
+  },
+  "results": {
+    "fibonacci_hash": "f77a63c9ea8fdba92f3fc63337e9135dd0900e8b825594d3062de1bc9031d0d0",
+    "prime_factors_hash": "0a74d7291764e16982fec9e0483b5aeec03e52f4db369756efeff38741868d9f"
+  }
+}
