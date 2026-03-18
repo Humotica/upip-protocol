@@ -28,7 +28,7 @@ after cloning, it would prove nothing. The proof is in the reproduction.
 ### Generate the paper yourself
 
 ```bash
-pip install tibet-triage>=0.3.1
+pip install tibet-triage>=0.3.2
 
 # Clone this repo
 git clone https://github.com/Humotica/upip-protocol.git
